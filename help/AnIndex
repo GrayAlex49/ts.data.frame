@@ -1,0 +1,8 @@
+ts.data.frame-package	ts.data.frame
+buildTSCS	buildTSCS
+findPhaseChanges	findPhaseChanges-methods
+indexSubjects	indexSubjects-methods
+indexTime	indexTime-methods
+ts.data.frame	ts.data.frame
+ts.data.frame-class	ts.data.frame-class
+tsFillData	tsFillData-methods

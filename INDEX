@@ -1,0 +1,8 @@
+buildTSCS               A function for creating as.ts.data.frame object
+findPhaseChanges        Method findPhaseChanges
+indexSubjects           Method indexSubjects
+indexTime               Method indexTime
+ts.data.frame           ts.data.frame.
+ts.data.frame-class     A class of objects for storing and validating
+                        TSCS data
+tsFillData              Method tsFillData
